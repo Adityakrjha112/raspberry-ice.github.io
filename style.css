@@ -71,6 +71,9 @@ canvas {
   h1 {
     font-size: 2rem;
   }
+  .ball-text1{
+    left: 35%;
+  }
   canvas{
     object-fit: cover;
   }
