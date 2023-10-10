@@ -71,4 +71,7 @@ canvas {
   h1 {
     font-size: 2rem;
   }
+  canvas{
+    object-fit: cover;
+  }
 }
